@@ -1,0 +1,10 @@
+Libraries 
+        --> Numpy - provide multidimensioinal arrays
+        --> Pandas - a data analysis library that introduces the concept of data frames
+        -->MatPlotLib - a comprehensive library for creating static, animated, and interactive visualizations in Python
+        -->Scikit-Learn- a library that provides us with a machine learning algorithim
+
+IDE  
+        -->Jupyter - install using Anaconda
+         
+

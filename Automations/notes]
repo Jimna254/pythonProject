@@ -1,0 +1,7 @@
+ Pypi PiP ("Python Package Index")
+
+ -web scraping
+ -Browser Automations (Test automation for web apps)--> use scelenium
+ -openpyxl--> package for working with Excel files
+
+ - when installing a python package ... you type in this command in the terminal --> pip install openpyxl
